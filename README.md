@@ -1,4 +1,5 @@
 # University_managenent_system
+University Management System is developed in object oriented platform using C++ programming language. It mainly maintains the list of colleges affiliated to the university and their different streams. Additionally, the project also maintains and handles the examination as well as the result department with a proper menu system.
 
 # About University Management System:
 In University, a large amount of data is processed and the results are used in running an organization. The University management system maintains the list of colleges and their different streams along with the examination and result department. There are menus and sub menus in the output of the project which has given this project an organized look.
