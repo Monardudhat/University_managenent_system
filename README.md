@@ -14,11 +14,12 @@ The project is developed using the class concepts of C++ programming language, a
 Screenshots:
 There are different output screens for most of the functions listed above; I have listed a few output screens of University Management System below. You can find all the output screens documentation within the project folder of the downloaded file.
 
-![Screenshot 2023-11-26 120311](https://github.com/Monardudhat/University_managenent_system/assets/151862462/8256a9ec-45fc-483b-8c4a-6a5ac02a7e84)
-![Screenshot 2023-11-26 120407](https://github.com/Monardudhat/University_managenent_system/assets/151862462/808e6459-bfd7-4132-8cca-2dfe0e4e9b2a)
-![Screenshot 2023-11-26 120446](https://github.com/Monardudhat/University_managenent_system/assets/151862462/9079b0e1-b237-4ec6-b597-b08b69afba41)
-![Screenshot 2023-11-26 120527](https://github.com/Monardudhat/University_managenent_system/assets/151862462/b378eeed-001a-4eb2-a1bb-d0624f5a37a3)
-![Screenshot 2023-11-26 120550](https://github.com/Monardudhat/University_managenent_system/assets/151862462/bec04527-f344-4410-baac-487f2ba0509d)
-![Screenshot 2023-11-26 120232](https://github.com/Monardudhat/University_managenent_system/assets/151862462/a6f48d7a-5524-40d5-9185-05b805e53104)
+![Screenshot 2023-11-26 120232](https://github.com/Monardudhat/University_managenent_system/assets/151862462/a6f48d7a-5524-40d5-9185-05b805e53104) 
+![Screenshot 2023-11-26 120311](https://github.com/Monardudhat/University_managenent_system/assets/151862462/8256a9ec-45fc-483b-8c4a-6a5ac02a7e84) 
+![Screenshot 2023-11-26 120527](https://github.com/Monardudhat/University_managenent_system/assets/151862462/b378eeed-001a-4eb2-a1bb-d0624f5a37a3) 
+![Screenshot 2023-11-26 120407](https://github.com/Monardudhat/University_managenent_system/assets/151862462/808e6459-bfd7-4132-8cca-2dfe0e4e9b2a) 
+![Screenshot 2023-11-26 120446](https://github.com/Monardudhat/University_managenent_system/assets/151862462/9079b0e1-b237-4ec6-b597-b08b69afba41) 
+![Screenshot 2023-11-26 120550](https://github.com/Monardudhat/University_managenent_system/assets/151862462/bec04527-f344-4410-baac-487f2ba0509d) 
+
 
 
